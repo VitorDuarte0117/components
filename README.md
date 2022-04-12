@@ -1,1 +1,1 @@
-#Studying Components
+Studying Components
