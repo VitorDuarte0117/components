@@ -1,1 +1,1 @@
-# Working with Components
+#Studying Components
